@@ -14,6 +14,10 @@
 	<name>First_project</name>
 	<description>Hello world project for Spring Boot</description>
 	<properties>
+<!--            Development-->
+<!--            <java.version>20</java.version>-->
+            
+<!--           Production-->
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
